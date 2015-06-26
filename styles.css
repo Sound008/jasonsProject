@@ -1,0 +1,12 @@
+body {
+	background-image:url(http://www.allaboutclowns.com/images/ronald_mcdonald.jpg);
+}
+p {
+	color:white;
+}
+p#egg{
+	color:magenta;
+}
+p.Jason{
+	color:cyan;
+}
